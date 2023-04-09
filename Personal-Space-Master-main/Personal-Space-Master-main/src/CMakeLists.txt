@@ -1,0 +1,2 @@
+add_executable(PersonalSpace PersonalSpace.cpp)
+target_compile_features(PersonalSpace PUBLIC cxx_std_17)
